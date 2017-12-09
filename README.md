@@ -7,5 +7,5 @@
 
 
 
-![Alt Text](https://github.com/LukeCattle/blob/master/lboroEESE-16ELD002/I-ProjectDocs/Icarus%20logo.jpg)
+![Alt Text](https://github.com/LukeCattle/lboroEESE-16ELD002/blob/master/I-ProjectDocs/Icarus%20logo.jpg)
 
